@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mister-G-Lu
 - 👀 I’m interested in Artificial Intelligence, Cyber security, and other modern topics.
-- 🌱 I’m currently learning about Data science 
+- 🌱 I’m currently working as a senior software developer at Capital One
 - 💞️ I’m looking to collaborate on anything computer science related
 - 📫 How to reach me : contact me at gugigor@live.com.
 
